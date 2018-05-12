@@ -1,0 +1,48 @@
+_repo: The-Second-Jungle-Book_37364
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kipling, John Lockwood
+    aliases:
+    - Kipling, J. Lockwood (John Lockwood)
+    - Kipling, Lockwood
+    - Kepling, J. Lockwood (John Lockwood)
+    - Kipling, J. L. (John Lockwood)
+    birthdate: 1837
+    deathdate: 1911
+    gutenberg_agent_id: '38798'
+    url: http://www.gutenberg.org/2009/agents/38798
+    wikipedia: https://en.wikipedia.org/wiki/John_Lockwood_Kipling
+covers:
+- cover_type: archival
+  image_path: 37364-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: 'Indhold: Mowgli''s brothers ; Hunting-song of the seeonee pack ; Kaa''s
+  hunting ; Road-song of the bandar-log ; "Tiger! Tiger!" ; Mowgli''s song ; The white
+  seal ; Lukannon ; "Rikki-tikki-tavi" ; Darzee''s chaunt ; Toomai of the elephants
+  ; Shiv and the grasshopper ; Her Majesty''s servants ; Parade-song of the camp-animals'
+gutenberg_issued: '2011-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jungle animals -- Fiction'
+- !lcsh 'Mowgli (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'India -- Fiction'
+title: The Second Jungle Book
+url: http://www.gutenberg.org/ebooks/37364
